@@ -60,12 +60,12 @@ h1 {
 }
 
 .stripe {
-    position: absolute;
+    position: fixed;
     transform: translate(-50%, -50%);
     width: 100%;
     opacity: 0.2;
     display: block;
-    text-align: center;
+    /*text-align: center;*/
     background-color: white;
     color: red;
 }
